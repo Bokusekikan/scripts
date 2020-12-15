@@ -1,0 +1,265 @@
+LukeSmith - https://lukesmith.xyz/programs.html
+https://www.privacytools.io/
+https://suckless.org/
+
+
+App launcher
+	dmenu
+	rofi - [https://github.com/davatorium/rofi]
+	morc_menu
+	sxhkd
+	bmenu
+     graphical
+	Launchy
+	ulauncher
+	Albert
+	Synapse
+	Cerebro
+	Kupfer		
+
+Automation
+	entr
+
+Bios
+	Libreboot
+	Coreboot
+
+Browsers
+	Firefox - Privacy,
+	IceCat
+	Pale moon
+	Tor - Privacy, Security,
+	Waterfox -
+	surf
+
+   vim-like
+	Vieb - ML
+	Qutebrowser - LW, ML
+	Konqueror
+	Conkeror - ML
+
+   terminal
+	w3m
+	Links2
+	eLinks
+	Lynx - ULW, cmd, ML
+
+Calendar
+	calcurse
+
+Downloader
+	youtube-dl/youtube-viewer
+	axel (makes downloading faster)
+	aria2 (multi-protocol downloader)
+	fetch
+
+Email manager
+	mutt
+	thunderbird
+
+Encryption
+	--
+
+File browser
+	ranger
+	nnn
+	fff
+	lf
+
+File browser - freecommander-like
+	Krusader - not bad
+	Double Commander
+	Lfm - commander good but have to change key bindings
+GNU Midnight Commander - mc
+   	fff
+	Vifm
+	Dolphin
+	cfiles
+	lf - list files
+
+
+
+File sharing
+	Onion share
+
+File tagging
+	--
+
+Fonts
+	Japanese
+	Chinese
+	Cukrarna
+
+FTP client
+	Filezilla
+	
+Funny/interesting
+	cmatrix - matrix rain in terminal
+
+Gaming
+	proton
+	playonlinux
+	wine
+	steam
+	lutris
+	osu
+	dxvk
+
+Image viewer
+	sxiv
+	feh
+
+Mind maps
+	Via LaTeX
+	Via R (Markdown)
+	Draw.io/diagrams - [https://github.com/jgraph/drawio-desktop] {https://www.diagrams.net/}
+	Dia - {http://dia-installer.de/}
+	yEd - {https://www.yworks.com/products/yed/}
+	vue - {https://vue.tufts.edu/}
+	coggle.it - {https://coggle.it/}
+	mindmup - {https://www.mindmup.com/}
+	gitmind - {https://gitmind.com/}
+	planttext - {https://www.planttext.com/}	
+
+Music player
+	cmus
+	MOC - “mocp” to start
+	mp3blaster
+	sox
+	mpd w/ ncmpcpp lib
+	ocp/opencp
+	pulseaudio
+
+Music visualizer
+	cava
+	cli visualizer
+	music_visualizer
+	ncmpcpp (lib)
+
+Notes/notetaking
+	Notion
+	Joplin
+	Zim
+	CherryTree
+	Simplenote
+	Nixnote
+	Typora
+	Paperwork
+	emacs/org-mode
+
+Password manager
+	Bitwarden
+	KeePassXC
+	KeePass
+
+PDF reader
+	zathura
+	mupdf
+	okular
+
+Programming
+	C
+	Python
+	Web-HTML
+	Web-CSS
+	(Web-JS)
+
+Remote access
+	SSH
+
+RSS reader
+	newsboat
+
+Screen grab
+	flameshot
+
+Shell
+	Bash
+	Dash>=Python3>Bash
+	Fish
+	(Zsh)
+
+Shell tools
+	dateutils - [https://github.com/hroptatyr/dateutils]
+
+Simple Documents
+	LaTeX - hard(er) syntax, not so intuitive [texlive-most texlive-lang]
+	R Markdown/markdown - easy syntax, intuitive [r pandoc-citeproc pandoc-crossref]
+	groff/troff
+	Pandoc - document converter (pandoc + markdown = presentations)
+
+Spreadsheets
+	SC-IM
+
+Status bar
+	polybar
+	i3blocks - for i3gaps/vm
+	dwmblocks - for dwm
+	xmobar - xmonad
+	bar/lemonbar - [https://github.com/LemonBoy/bar]
+
+Syncing
+	Syncthing
+	rclone
+	rsync
+
+System info
+	neofetch
+	pfetch
+	lshw
+
+Terminals
+	st
+	urxvt
+	eDEX-UI - cool terminal emulator [https://github.com/GitSquared/edex-ui]
+
+Terminal finder
+	fzf - [https://github.com/junegunn/fzf]
+	dmenu?
+
+Text editor
+	vim/neovim (nvim to launch neovim)
+	(emacs)
+
+Text to ASCII
+	figlet - changes text to ascii art
+	toilet
+	text-name - [https://github.com/Anlos0023/text-name]
+
+Torrent client
+	Transmission - server
+	qBittorrent - client
+	Tribler - client (anonymity)
+
+Video player
+	mpv
+
+Virtualization - for gaming VM
+	QEMU
+	KVM
+	virt-manager
+	(virtual box)
+
+Window managers
+     Tiling
+	dwm
+	bspwm
+	qtile
+	awesome
+	
+     "Normal"
+	xfce
+	kde
+	openbox
+
+
+vim basics -> advanced vim -> vim plugins -> vim scripts -> other vim variants (neovim) -> latec and/or ®markdown scripts/implementation
+https://vim.rtorr.com/
+https://www.openvim.com/
+vim cheat sheets - https://duckduckgo.com/?q=vim+cheat+sheet&t=ffab&iar=images&iax=images&ia=images
+
+linux shell basics (in dash) -> scripts -> advanced things (maybe even some bash)
+
+Manjaro on notebook: MaturanT2018
+Mama notas heslo: LocikaA
+Mickey notas heslo: heslo

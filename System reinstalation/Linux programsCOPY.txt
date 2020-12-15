@@ -1,0 +1,248 @@
+LukeSmith - https://lukesmith.xyz/programs.html
+
+
+App launcher
+	Launchy
+	ulauncher
+	Albert
+	Synapse
+	Cerebro
+	Kupfer
+	rofi - [https://github.com/davatorium/rofi]
+	morc_menu
+	dmenu
+	sxhkd
+	bmenu
+
+Automation
+	entr
+
+Bios
+	Libreboot
+	Coreboot
+
+Browsers
+	Firefox - Privacy,
+	Vivaldi - LW, Privacy,
+	Brave - Privacy,
+	Midori - LW
+	GNUzilla
+	IceCat
+	Conkeror - ML
+	Pale moon
+	Slimjet
+	Tor - Privacy, Security,
+	Iridium
+	Opera
+	Qutebrowser - LW, ML
+	Comodo IceDragon - LW, Security,
+	Torch Browser - LW
+	Falcon(QupZilla) - LW
+	Lynx - ULW, cmd, ML
+	Konqueror
+	Epic browser - Privacy, Security,
+	Waterfox -
+	Vieb - ML
+	w3m
+	Links2
+	eLinks
+
+Calendar
+	calcurse
+
+Docks
+	Plank
+	Docky
+	Latte dock
+	Cairo dock
+
+Downloader
+	youtube-dl/youtube-viewer
+	axel (makes downloading faster)
+	aria2 (multi-protocol downloader)
+
+Email manager
+	mutt
+	thunderbird
+
+Encryption
+	--
+
+File browser
+	ranger
+	nnn
+	fff
+
+File browser - freecommander-like
+	Krusader - not bad
+	Double Commander
+	Lfm - commander good but have to change key bindings
+
+     bad ones
+	Gnome commander
+	emelFM2
+	SpaceFM
+	fff
+	Vifm
+	XFE
+	Gentoo
+	4Pane
+	Polo File Manager
+	Dolphin
+	Konqueror
+
+File sharing
+	Onion share
+
+Fonts
+	Japanese
+	Chinese
+	Cukrarna
+
+FTP client
+	Filezilla
+	
+Funny/interesting
+	figlet - changes text to ascii art
+	cmatrix - matrix rain in terminal
+
+Gaming
+	proton
+	playonlinux
+	wine
+	steam
+	lutris
+	osu
+	dxvk
+
+Image viewer
+	sxiv
+
+Mind maps
+	Via LaTeX
+	Draw.io/diagrams - [https://github.com/jgraph/drawio-desktop] {https://www.diagrams.net/}
+	Via R Markdown
+	Dia - {http://dia-installer.de/}
+	yEd - {https://www.yworks.com/products/yed/}
+	vue - {https://vue.tufts.edu/}
+	coggle.it - {https://coggle.it/}
+	mindmup - {https://www.mindmup.com/}
+	gitmind - {https://gitmind.com/}
+	planttext - {https://www.planttext.com/}	
+
+Music player
+	cmus
+	MOC - “mocp” to start
+	mp3blaster
+	sox
+	mpd w/ ncmpcpp lib
+	ocp/opencp
+	pulseaudio
+
+Music visualizer
+	cava
+	cli visualizer
+	music_visualizer
+	ncmpcpp (lib)
+
+Notes/notetaking
+	Notion
+	Joplin
+	Zim
+	CherryTree
+	Simplenote
+	Nixnote
+	RoamResearch
+	Typora
+
+Password manager
+	--
+
+PDF reader
+	zathura
+	mupdf
+	okular
+
+Programming
+	C
+	Python
+	Web-HTML
+	Web-CSS
+	(Web-JS)
+
+Remote access
+	SSH
+
+Shell
+	Bash
+	Dash>=Python3>Bash
+	Fish
+	(Zsh)
+
+Shell tools
+	dateutils - [https://github.com/hroptatyr/dateutils]
+
+Simple Documents
+	LaTeX - hard(er) syntax, not so intuitive [texlive-most texlive-lang]
+	R Markdown/markdown - easy syntax, intuitive
+	groff/troff
+	Pandoc - document converter (pandoc + markdown = presentations)
+
+Spreadsheets
+	SC-IM
+
+Status bar
+	polybar
+	i3blocks - for i3gaps/vm
+	dwmblocks - for dwm
+	xmobar - xmonad
+	bar/lemonbar - [https://github.com/LemonBoy/bar]
+
+Syncing
+	Syncthing
+	rclone
+	rsync
+
+System info
+	neofetch
+	pfetch
+	lshw
+
+Terminals
+	st
+	urxvt
+	eDEX-UI - cool terminal emulator [https://github.com/GitSquared/edex-ui]
+
+Terminal finder
+	fzf
+	dmenu?
+
+Text editor
+	vim/neovim (nvim to launch neovim)
+	(emacs)
+
+Torrent client
+	Transmission - server
+	qBittorrent - client
+	Tixati - client
+	Tribler - client (anonymity)
+	Deluge - client
+
+Video player
+	mpv
+
+Virtualization - for gaming VM
+	QEMU
+	virt-manager
+
+
+vim basics -> advanced vim -> vim plugins -> vim scripts -> other vim variants (neovim) -> latec and/or ®markdown scripts/implementation
+https://vim.rtorr.com/
+https://www.openvim.com/
+vim cheat sheets - https://duckduckgo.com/?q=vim+cheat+sheet&t=ffab&iar=images&iax=images&ia=images
+
+linux shell basics (in dash) -> scripts -> advanced things (maybe even some bash)
+
+Manjaro on notebook: MaturanT2018
+Mama notas heslo: LocikaA
+Mickey notas heslo: heslo
